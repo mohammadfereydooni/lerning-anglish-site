@@ -1,0 +1,27 @@
+.container{
+  display: inline-flex;
+  justify-content: flex-end;
+  align-items: center;
+
+
+}
+
+
+
+.logo{
+  color: #692792;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+}
+.mdc-list{
+  display: flex;
+  margin: 50px;
+}
+.search{
+  color: #692792;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 700px;
+  padding-top: 20px;
+}
